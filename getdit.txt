@@ -1,0 +1,7 @@
+java   >> sql  >> Mysql
+
+
+JpA:java persistance API:Hibernata(ORM tool)
+Object relation Mapping :
+   
+   object ==record        
